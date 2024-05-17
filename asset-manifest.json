@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cart/static/css/main.19c6e44f.css",
+    "main.js": "/cart/static/js/main.30e5e2f8.js",
+    "static/js/453.b2482a81.chunk.js": "/cart/static/js/453.b2482a81.chunk.js",
+    "static/media/S9.jpg_640x640.jpg": "/cart/static/media/S5a45886a071e43609e185d50df44e7609.jpg_640x640.0440fc19b33f7698b498.jpg",
+    "static/media/Sq.jpg_640x640.jpg": "/cart/static/media/S2957e26db2024cd4ab84f88f33028de2q.jpg_640x640.0e173dedd701b5596cbf.jpg",
+    "static/media/SV.jpg_640x640.webp": "/cart/static/media/S6dffa8f5d1ca433eb249c97412fd52caV.jpg_640x640.e1f16f29e0e93416845f.webp",
+    "static/media/shopping-bag-54.png": "/cart/static/media/shopping-bag-54.8711e2b6bec15d6d3a36.png",
+    "index.html": "/cart/index.html",
+    "main.19c6e44f.css.map": "/cart/static/css/main.19c6e44f.css.map",
+    "main.30e5e2f8.js.map": "/cart/static/js/main.30e5e2f8.js.map",
+    "453.b2482a81.chunk.js.map": "/cart/static/js/453.b2482a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c6e44f.css",
+    "static/js/main.30e5e2f8.js"
+  ]
+}
